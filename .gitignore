@@ -3,5 +3,5 @@
 
 # Exceptuar la carpeta src y su contenido
 !/Unidad4/src/
-!/Unidad4/src/**
+!/Unidad4/src/**/*
 
